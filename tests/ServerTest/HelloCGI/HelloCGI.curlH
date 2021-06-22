@@ -1,0 +1,1 @@
+curl -I localhost:8070/cgibin/hello.py
